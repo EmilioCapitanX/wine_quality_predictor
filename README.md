@@ -1,4 +1,4 @@
-## Wine Quality Predictor
+## Wine Quality Predictor 🍷
 This project aims to predict the quality of a wine based on various features.
 ## Dataset
 There are two datasets used in this project, one for white wine and another one for red wine. The variables in the dataset are the following (detail of each feature included in the python notebook): fixed acidity, volatile acidity, citric acid, residual sugar, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, alcohol. 
